@@ -24,6 +24,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | Aulas                            | Descrição                    |
 | -------------------------------- | ---------------------------- |
 | [aula-6-2](../../commit/43b6fb4) | Mão na Massa: Criando a base |
+| [aula-6-3](../../commit/aa54103) | Mão na Massa: Link com CSS   |
 
 ## Autor
 
