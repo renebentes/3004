@@ -63,3 +63,32 @@ table thead th {
 .product .info .category {
   color: #666;
 }
+
+.quantity {
+  background-color: #eee;
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 60px;
+  border-radius: 20px;
+  overflow: hidden;
+  height: 30px;
+}
+
+.quantity button {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border: 0;
+  padding: 0 10px;
+  font-size: 20px;
+  height: 100%;
+}
+
+.quantity button:hover {
+  background-color: #ddd;
+}
+
+.quantity span {
+  margin: 0 10px;
+}
