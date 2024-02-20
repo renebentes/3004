@@ -30,6 +30,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-6-6](../../commit/5e066c0) | Mão na Massa: Criando o cabeçalho da tabela   |
 | [aula-6-7](../../commit/6b6b7db) | Mão na Massa: Criando o produto               |
 | [aula-6-8](../../commit/df95205) | Mão na Massa: Estilizando o produto - Parte 1 |
+| [aula-6-9](../../commit/df195d6) | Mão na Massa: Estilizando o produto - Parte 2 |
 
 ## Autor
 
