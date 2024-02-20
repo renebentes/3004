@@ -15,3 +15,9 @@ body > header {
   padding: 20px 0;
   justify-content: center;
 }
+
+main > .page-title {
+  font-size: 40px;
+  padding: 50px 0;
+  text-align: center;
+}
