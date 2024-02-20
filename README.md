@@ -21,10 +21,11 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas                            | Descrição                    |
-| -------------------------------- | ---------------------------- |
-| [aula-6-2](../../commit/43b6fb4) | Mão na Massa: Criando a base |
-| [aula-6-3](../../commit/aa54103) | Mão na Massa: Link com CSS   |
+| Aulas                            | Descrição                      |
+| -------------------------------- | ------------------------------ |
+| [aula-6-2](../../commit/43b6fb4) | Mão na Massa: Criando a base   |
+| [aula-6-3](../../commit/aa54103) | Mão na Massa: Link com CSS     |
+| [aula-6-4](../../commit/0bccf29) | Mão na Massa; Criando o header |
 
 ## Autor
 
