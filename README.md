@@ -37,6 +37,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-6-14](../../commit/3472269) | Mão na Massa: Estilizando aside                   |
 | [aula-6-15](../../commit/c7a9469) | Mão na Massa: Estilizando o botão de desconto     |
 | [aula-6-16](../../commit/80c65cd) | Mão na Massa: Criando o botão de finalizar compra |
+| [aula-6-17](../../commit/86591d4) | Mão na Massa: Finalizando o estilo                |
 
 ## Autor
 
