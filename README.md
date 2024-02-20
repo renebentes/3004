@@ -32,6 +32,7 @@ Há links específicos para cada commit de finalização de uma aula.
 | [aula-6-8](../../commit/df95205)  | Mão na Massa: Estilizando o produto - Parte 1 |
 | [aula-6-9](../../commit/df195d6)  | Mão na Massa: Estilizando o produto - Parte 2 |
 | [aula-6-10](../../commit/d10734b) | Mão na Massa: Estilizando o produto - Parte 3 |
+| [aula-6-11](../../commit/cbb0bf9) | Mão na Massa: Estilizando a tabela            |
 
 ## Autor
 
