@@ -21,8 +21,9 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas | Descrição |
-| ----- | --------- |
+| Aulas                            | Descrição                    |
+| -------------------------------- | ---------------------------- |
+| [aula-6-2](../../commit/43b6fb4) | Mão na Massa: Criando a base |
 
 ## Autor
 
