@@ -92,3 +92,22 @@ table thead th {
 .quantity span {
   margin: 0 10px;
 }
+
+.remove {
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  border-radius: 100%;
+  height: 30px;
+  font-size: 20px;
+}
+
+.remove button {
+  border: 0;
+}
+
+.remove button:hover {
+  background-color: #ddd;
+}
