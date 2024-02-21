@@ -8,11 +8,9 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-# Markdown files
 [*.md]
 indent_size = 1
 trim_trailing_whitespace = false
 
-# CSS files
-[*.css]
+[*.{css,yml,yaml}]
 indent_size = 2
